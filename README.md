@@ -1,5 +1,5 @@
 <div style="position: relative; text-align: center;">
-  <img src="https://i.pinimg.com/236x/28/13/9d/28139d259e6972f50e51eac560ce48f9.jpg" style="width: 100%; object-fit:cover;height:50vh;">
+  <img src="https://i.pinimg.com/236x/28/13/9d/28139d259e6972f50e51eac560ce48f9.jpg" style="width: 100%; object-fit: cover; height: 50vh;">
   <h2 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Hi 👋! Myself Devraj Rathor</h2>
 </div>
 
@@ -66,7 +66,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webwithrathor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=webwithrathor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=webwithrathor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+
   <img src="https://streak-stats.demolab.com?user=webwithrathor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
