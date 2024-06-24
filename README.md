@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! Myself Devraj Rathor</h2>
-<div>
-  <img src='https://i.pinimg.com/236x/28/13/9d/28139d259e6972f50e51eac560ce48f9.jpg'/>
+<div style="position: relative; text-align: center;">
+  <img src="https://i.pinimg.com/236x/28/13/9d/28139d259e6972f50e51eac560ce48f9.jpg" style="width: 100%; object-fit:cover;height:50vh;">
+  <h2 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Hi 👋! Myself Devraj Rathor</h2>
 </div>
 
 ###
