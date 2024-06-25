@@ -1,7 +1,4 @@
-<div style="position: relative; text-align: center;">
-  <img src="https://i.pinimg.com/236x/28/13/9d/28139d259e6972f50e51eac560ce48f9.jpg" style="width: 100%; height: 50vh;">
-  <h2 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Hi 👋! Myself Devraj Rathor</h2>
-</div>
+<img src="https://ik.imagekit.io/Devrajrathor124/Hi!%20(1).gif?updatedAt=1719296103945" width="100%" style="border: 2px solid #ffff;"/>
 
 ###
 
@@ -64,8 +61,17 @@
 
 ###
 
-![webwithrathor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webwithrathor&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-![webwithrathor's Stats](https://github-readme-stats.vercel.app/api?username=webwithrathor&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![webwithrathor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=webwithrathor&theme=dracula&hide_border=false)
+<div align="center" style="display:flex; gap:2px;">
+  <div style="display: inline-block; margin-right: 5px;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=webwithrathor&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webwithrathor&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
+  </div>
+
+  
+  <div style="display: inline-block; margin-top:5px;">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=webwithrathor&theme=dracula&hide_border=false" />
+  </div>
+</div>
+
 
 ###
