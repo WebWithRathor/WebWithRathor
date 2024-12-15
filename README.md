@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/Devrajrathor124/Hi!%20(1).gif?updatedAt=1719296103945" width="100%" style="border: 2px solid #ffff;"/>
+<img src="https://ik.imagekit.io/Devrajrathor124/Devraj%20Rathor%20(1).gif?updatedAt=1734277528596" width="100%" style="border: 2px solid #ffff;"/>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">As a second-year B.Tech student specializing in MERN stack and proficient in C language, I excel in both front-end and back-end development. Passionate about coding, I create dynamic, responsive web applications and thrive in collaborative projects, continuously learning to deliver innovative and impactful solutions.</p>
+<p align="center">I'm a dedicated MERN Stack Developer and B.Tech student at LNCT Bhopal, passionate about crafting seamless and dynamic web solutions. Proficient in technologies like Next.js, Tailwind CSS, Java, and C, I bring a blend of design and development expertise to every project. Currently, I'm diving deeper into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills. Let's collaborate to create innovative solutions and push the boundaries of technology!</p>
 
 ###
 
